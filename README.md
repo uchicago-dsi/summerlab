@@ -1,7 +1,13 @@
 # Welcome to the CDAC Summer Lab 
-### What is the Data and Computing Summer Lab Program? 
+Welcome to the Data & Computing Summer Lab! People make this program what it is, and our high hopes for this year come from our excitement in welcoming all of you to the program. Each one of you brings a unique background, perspective, and skill set to your research project. 
 
-Welcome to the Data & Computing Summer Lab 2020! People make this program what it is, and our high hopes for this year come from our excitement in welcoming all 38 of you to the program. Each one of you brings a unique background, perspective, and skill set to your research project. CDAC is an interdisciplinary research center, and the impressive range of your projects manifests that multifaceted approach to data science by encompassing over twenty different domains and approaches. We can’t wait to see what you accomplish during this program, and hope to support you along the way.
+CDAC is an interdisciplinary research center, and the impressive range of your projects manifests that multifaceted approach to data science by encompassing over twenty different domains and approaches. We can’t wait to see what you accomplish during this program, and hope to support you along the way.
+
+### What is the Data and Computing Summer Lab Program?
+
+The Data & Computing Summer Lab is an immersive 10-week paid summer research program at the University of Chicago. Through the program, high school and undergraduate students work on data science research projects across a variety domains and applications, such as computer science, computational social sciences, biomedicine, computer vision, machine learning/AI, human-computer interaction, networks, and more.
+
+The program is part of the of the [Center for Data and Computing (CDAC)] (https://cdac.uchicago.edu/), an intellectual hub and incubator for data science and artificial intelligence research at the University of Chicago.
 
 ### What is in this guide? 
 * [Summer Lab Team contact info](#summer-lab-team)
@@ -36,7 +42,7 @@ Welcome to the Data & Computing Summer Lab 2020! People make this program what i
 The mission of the program is to foster an inclusive research environment where students from all backgrounds gain hands-on research experience and build critical computational and data science skills. It’s our goal to run a program that balances the rigors of research with a collaborative, cohort experience to train the next generation of interdisciplinary computational and data scientists. 
 
 ### Student Experience
-This program offers you the chance to learn, possibly for the first time, outside of a classroom environment. This can bring its own challenges, but we hope that you make the most of this research experience. This program also uniquely offers you chances to collaborate and build friendships with fellow young minds intrigued by computational puzzles. We hope you use this summer to: 
+This program offers you the chance to participate in research, possibly for the first time, outside of a classroom environment. This can bring its own challenges, but we hope that you make the most of this research experience. This program also uniquely offers you chances to collaborate and build friendships with fellow young minds intrigued by computational puzzles. We hope you use this summer to: 
 * Engage with and contribute to your cohort and cluster
 * Conduct interdisciplinary data science research 
 * Collaborate with and learn from your cohort peers
@@ -118,9 +124,9 @@ Wednesdays + Fridays: Written Stand Up (asynchronous) | Slack cluster channel
 (occasionally) 10-15 min small group discussions in clusters in Zoom breakout rooms.
 * To accommodate folks for whom the time difference is difficult, we’ll record each talk and share afterwards so they’re accessible to everyone.
 
-*Program-Long Required Schedule*
+**Program-Long Required Schedule**
 (HOLD) June 23 - June 26, 9:00am-1:00pm: Carpentries Workshop | Zoom
-* See “Workshops” below for more info.
+* See [“Workshops”](#workshops) below for more info.
 
 Friday June 26: Icebreaker Social | Time TBD, Zoom
 * Meet with your cluster for some icebreakers, and then meet & greet with the entire cohort!
@@ -190,8 +196,7 @@ Talk topics for this summer include:
 * **COVID-19 + Data:** What role can data science play in meeting the unprecedented challenges of the COVID-19 pandemic?
 * **Faculty Panel:** Hear professors talk about their unique path to academia, and ask them questions outside of a classroom context.
 * **Human-Computer Interaction:** What do the boundary-pushing frontiers of HCI research look like? In security, robotics, and wearables?
-* **Industry Panel:** What does data science look like in industry and government vs. academia? How do you pursue a career in data science industries?
- * Followed by a workshop with UChicago Career Development
+* **Industry Panel:** What does data science look like in industry and government vs. academia? How do you pursue a career in data science industries? Followed by a workshop with UChicago Career Development.
 * **PhD Panel:** Hear from CS PhD students and [CDAC Graduate Fellows](https://cdac.uchicago.edu/fellows-and-scholars/) about their path into academia and recommendations for pursuing higher education in various interdisciplinary computational fields.
 * **Image Analysis + AI:** What are the unique challenges of image analysis across domains/applications such as public policy and archaeology?
 * **AI + Science:** How is AI as an emerging field being defined by current cutting-edge research? What are the unique challenges to this field in its myriad real-world applications?
