@@ -4,7 +4,7 @@
 Welcome to the Data & Computing Summer Lab 2020! People make this program what it is, and our high hopes for this year come from our excitement in welcoming all 38 of you to the program. Each one of you brings a unique background, perspective, and skill set to your research project. CDAC is an interdisciplinary research center, and the impressive range of your projects manifests that multifaceted approach to data science by encompassing over twenty different domains and approaches. We can’t wait to see what you accomplish during this program, and hope to support you along the way.
 
 ### What is in this guide? 
-* Summer Lab Team contact info
+* [Summer Lab Team contact info](summer-lab-team)
 * Program Mission
 * Student Experience
 * Research Assistant (RA) expectations
