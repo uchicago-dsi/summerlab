@@ -55,6 +55,32 @@ This program offers you the chance to participate in research, possibly for the 
 * Develop new computational, data science, and research skills
 * Practice discussing and presenting research findings, culminating in final [video presentation](#presentations)
 
+### People 
+
+We have 100+ affiliated people (student researchers, mentors, co-mentoring staff, program staff, and more) involved in the program! As a research assistant you will work most directly with your mentor and their research team, including other RAs, students and postdoctoral researchers. In addition to your research team, you'll have access to the CDAC Summer Lab team as resources to support you throughout the program: 
+
+**Program Director: Kyle**
+Program director, mentor in the program + co-coordinator for the Systems cluster group with Tyler.
+Direct any questions or issues to Kyle & Katie.
+Weekly office hours: Thursdays at 10:00am CT.
+
+**Program Admin: Katie**
+Direct any questions (specifically about program logistics, stipends, program dates, etc) to Katie, and any issues to Katie & Kyle.
+Available for check-ins and meetings either via email or Calendly.
+
+**Lab Coordinators (LC’s): Jinjin, Julia, + Tyler**
+
+Each [cluster](#cluster) has a designated lab coordinator, but each lab coordinator is available for help with questions from any RA.
+* Lab coordinators and Kyle will each hold weekly office hours on Zoom, open to anyone.
+* Lab coordinators are also a great resource for navigating research and mentor/lab working relationships. They’re also there to answer questions you might feel silly asking - to remind you that all questions are good, and work through it with you. Ask them questions in the Slack channel #helpdesk or in a direct message.
+
+**Peer Tripods:** The rule of threes! Just like the clusters provide small group facilitation within the larger cohort, peer tripods (groups of 3 students within each cluster) aim to provide even closer connection and collaboration among RAs. Your peer tripod is there to help with everything from questions you don’t want to ask your mentor but need help with; feedback on your final video presentation; and a “peer buddy”-style support system.
+
+Peer tripod groupings will be sent out during week 2, once we’ve all gotten to meet and settle into our projects. We’ll all meet in the tripods during an “Icebreaker Social” event on Friday June 26th (see [“Social Events”](#social-events) below for more info). 
+
+**Co-Mentoring Staff:** A lot of your projects are ingrained in existing research labs, and the co-mentoring staff any PhDs, postdocs, researchers, or even fellow student researchers who you’re working with. 
+
+
 ### Research Assistant (RA) Expectations
 
 **The Cohort:** At the core of the Summer Lab program is the cohort: that’s you! And your fellow RAs. Cohort building occurs through various aspects of the program, such as: engaging in discussions with your cluster and peer tripod, attending talks, participating in discussions in Slack, joining program social activities, and posting and answering questions in the Slack #helpdesk channel. By participating in the program to your fullest ability and contributing to the cohort experience, each RA is expected to abide by a collegial, mutually-respectful code of conduct (as upheld in the [UChicago Student Manual](https://studentmanual.uchicago.edu/)).
@@ -105,7 +131,7 @@ Asking questions
  * Asking questions and saying “I don’t know” can be powerful motivators, but also hard to admit. You have lots of places to ask questions and lots of people to ask questions of: lab coordinators (on Slack + in office hours), mentor(s), co-mentoring staff, and even your peers (in clusters and peer tripods). Asking questions is the stuff of research, and it’s good to get comfortable with it early on.
 
 Screen fatigue
-Take breaks! We’re not used to spending this much time in front of screens, even though we rely on technology to help us connect and work. Even 10 minutes away from your laptop -- reading a book (yes, an actual book), taking a walk around the block, or doing some stretches -- can be quick and effective ways to press the reset button and avoid burnout.
+* Take breaks! We’re not used to spending this much time in front of screens, even though we rely on technology to help us connect and work. Even 10 minutes away from your laptop -- reading a book (yes, an actual book), taking a walk around the block, or doing some stretches -- can be quick and effective ways to press the reset button and avoid burnout.
 
 ### Surveys
 Occasionally, we’ll send out a short survey for students to provide feedback about the programming, speaker series, ideas for social events, and more. We want this program to benefit you while you’re in it, so all feedback is encouraged and welcome, even outside of these surveys.
@@ -121,7 +147,7 @@ Each RA’s schedule will differ slightly, depending on the demands of their res
 **Weekly Required Schedule**
 * **Mondays:** Cluster Stand Up Meeting | 10:00-10:30am* CT, Zoom 
   * Small group check-in. Stand ups are an opportunity to talk through your tasks and challenges for the week, and bounce ideas and questions off your peers and lab coordinator in a low-stress environment.
-  * Monday stand ups will occasionally run longer for presentations/announcements.
+  * \* Monday stand ups will occasionally run longer for presentations/announcements.
 
 * **Wednesdays + Fridays:** Written Stand Up (asynchronous) | Slack cluster channel
   * 1-2 sentences providing an update on project work. This can be done at any time, so long as we see it posted that day.
@@ -132,6 +158,12 @@ Each RA’s schedule will differ slightly, depending on the demands of their res
 **Program-Long Required Schedule**
 * **(HOLD) June 23 - June 26, 9:00am-1:00pm:** Carpentries Workshop | Zoom
   * See [“Workshops”](#workshops) below for more info.
+  * Workshop topics:
+    * June 23rd: Python
+     * June 24th: Unix
+     * June 25th: Git
+     * June 26th: Databases/SQL
+     * There will be two groups offered for each topic, one at an intermediate level and one at an advanced level. We’ll send a survey during week 1 where you can self-select the level that would be most beneficial to you.
 
 * **Friday June 26:** Icebreaker Social | Time TBD, Zoom
   * Meet with your cluster for some icebreakers, and then meet & greet with the entire cohort!
@@ -152,11 +184,10 @@ Each RA’s schedule will differ slightly, depending on the demands of their res
 
 * **Office Hours (OH)**
  * **NB:** Week 1 + 2 office hours will be different from weeks 3+. Confirmed OH times (for weeks 3+) will be posted on the Google Calendar & in Slack.
-
+   * Julia Hanson | Tuesdays, time TBC, Zoom
+   * Tyler Skluzacek | Wednesdays, time TBC, Zoom
    * Kyle Chard | Thursdays, 10:00am-11:00am CT, Zoom
-   * Julia Hanson | DOW, time, Zoom
-   * Tyler Skluzacek | DOW, time, Zoom
-   * Jinjin Zhao | DOW, time, Zoom
+   * Jinjin Zhao | Fridays, time TBC, Zoom
 
 * **Wednesdays:** Post-talk teatime discussion | 12:00-12:30pm CT, Zoom
   * Open Zoom room to discuss that week’s speaker series.
