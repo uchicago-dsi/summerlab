@@ -8,7 +8,7 @@ Welcome to the Data & Computing Summer Lab 2020! People make this program what i
 * [Program Mission](#program-mission)
 * [Student Experience](#student-experience) 
 * [Research Assistant (RA) expectations](#research-assistant-ra-expectations)
-* [Remote Resources + Working from Home](#remote-resources-working-from-home)
+* [Remote Resources + Working from Home](#remote-resources--working-from-home)
 * [Summer Schedule Overview](#summer-schedule-overview)
 * [Clusters](#clusters)
 * [Presentations](#presentations)
