@@ -18,6 +18,7 @@ If you are applying to the program or have been accepted as a RA, check out the 
 * [Summer Lab Team contact info](#summer-lab-team)
 * [Program Mission](#program-mission)
 * [Student Experience](#student-experience) 
+* [People](#people) 
 * [Research Assistant (RA) expectations](#research-assistant-ra-expectations)
 * [Remote Resources + Working from Home](#remote-resources--working-from-home)
 * [Summer Schedule Overview](#summer-schedule-overview)
