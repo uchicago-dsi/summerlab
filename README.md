@@ -139,7 +139,7 @@ Week 10 (Cohort A) / Week 11 (Cohort B): Final Check-in | (exact dates TBC)
 
 **Optional Weekly Programming**
 
-*Office Hours (OH)
+* Office Hours (OH)
  * NB: Week 1 + 2 office hours will be different from weeks 3+. Confirmed OH times (for weeks 3+) will be posted on the Google Calendar & in Slack.
 
    * Kyle Chard | Thursdays, 10:00am-11:00am CT, Zoom
@@ -185,18 +185,18 @@ Each Wednesday, we’ll host a talk or panel featuring researchers, professors, 
 **NB:** We will hold a talk on June 17th during week 1 of the program, before Cohort B has begun (on June 22nd). Cohort B RAs are still of course welcome and encouraged to attend this talk, even if they haven’t yet started.
 
 Talk topics for this summer include:
-* Lab Coordinator Intros: How to make the most of your summer research program
-* CDAC + CS Intros: Hear firsthand about the expanding efforts around CS and data science at UChicago
-* COVID-19 + Data: What role can data science play in meeting the unprecedented challenges of the COVID-19 pandemic?
-* Faculty Panel: Hear professors talk about their unique path to academia, and ask them questions outside of a classroom context.
-* Human-Computer Interaction: What do the boundary-pushing frontiers of HCI research look like? In security, robotics, and wearables?
-* Industry Panel: What does data science look like in industry and government vs. academia? How do you pursue a career in data science industries?
-* Followed by a workshop with UChicago Career Development
-* PhD Panel: Hear from CS PhD students and CDAC Graduate Fellows about their path into academia and recommendations for pursuing higher education in various interdisciplinary computational fields.
-* Image Analysis + AI: What are the unique challenges of image analysis across domains/applications such as public policy and archaeology?
-* AI + Science: How is AI as an emerging field being defined by current cutting-edge research? What are the unique challenges to this field in its myriad real-world applications?
-* National Labs: How are National Labs such as Argonne National Lab and Fermilab pushing the boundaries of computational power and scientific discovery?
-* Applied Data Science: Data science methodologies advance through interdisciplinary collaboration across domains and approaches. What does data science research look like across fields such as spatial data, medicine, and econ/business?
+* **Lab Coordinator Intros:** How to make the most of your summer research program
+* **CDAC + CS Intros:** Hear firsthand about the expanding efforts around CS and data science at UChicago
+* **COVID-19 + Data:** What role can data science play in meeting the unprecedented challenges of the COVID-19 pandemic?
+* **Faculty Panel:** Hear professors talk about their unique path to academia, and ask them questions outside of a classroom context.
+* **Human-Computer Interaction:** What do the boundary-pushing frontiers of HCI research look like? In security, robotics, and wearables?
+* **Industry Panel:** What does data science look like in industry and government vs. academia? How do you pursue a career in data science industries?
+ * Followed by a workshop with UChicago Career Development
+* **PhD Panel:** Hear from CS PhD students and CDAC Graduate Fellows about their path into academia and recommendations for pursuing higher education in various interdisciplinary computational fields.
+* **Image Analysis + AI:** What are the unique challenges of image analysis across domains/applications such as public policy and archaeology?
+* **AI + Science:** How is AI as an emerging field being defined by current cutting-edge research? What are the unique challenges to this field in its myriad real-world applications?
+* **National Labs:** How are National Labs such as Argonne National Lab and Fermilab pushing the boundaries of computational power and scientific discovery?
+* **Applied Data Science:** Data science methodologies advance through interdisciplinary collaboration across domains and approaches. What does data science research look like across fields such as spatial data, medicine, and econ/business?
 
 ### Stipends
 In recognition and support of your participation in the program, you have been awarded a stipend. All stipends have been processed, and should be arriving either as a check or a direct deposit/wire transfer. Once you have received your stipend, please email Katie to confirm. If you have any questions regarding your stipend situation, please notify Katie as well.
