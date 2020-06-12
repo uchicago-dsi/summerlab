@@ -40,13 +40,13 @@ This program offers you the chance to learn, possibly for the first time, outsid
 * Engage with and contribute to your cohort and cluster
 * Conduct interdisciplinary data science research 
 * Collaborate with and learn from your cohort peers
-* Learn about cutting-edge research, beyond your own research project topic, in the weekly speaker series 
+* Learn about cutting-edge research, beyond your own research project topic, in the weekly [speaker series](#speaker-series) 
 * Develop new computational, data science, and research skills
-* Practice discussing and presenting research findings, culminating in final video presentation
+* Practice discussing and presenting research findings, culminating in final [video presentation](#presentations)
 
 ### Research Assistant (RA) Expectations
 
-**The Cohort:** At the core of the Summer Lab program is the cohort: that’s you! And your fellow RAs. Cohort building occurs through various aspects of the program, such as: engaging in discussions with your cluster and peer tripod, attending talks, participating in discussions in Slack, joining program social activities, and posting and answering questions in the Slack #helpdesk channel. By participating in the program to your fullest ability and contributing to the cohort experience, each RA is expected to abide by a collegial, mutually-respectful code of conduct (as upheld in the UChicago Student Manual).
+**The Cohort:** At the core of the Summer Lab program is the cohort: that’s you! And your fellow RAs. Cohort building occurs through various aspects of the program, such as: engaging in discussions with your cluster and peer tripod, attending talks, participating in discussions in Slack, joining program social activities, and posting and answering questions in the Slack #helpdesk channel. By participating in the program to your fullest ability and contributing to the cohort experience, each RA is expected to abide by a collegial, mutually-respectful code of conduct (as upheld in the [UChicago Student Manual](https://studentmanual.uchicago.edu/)).
 
 **Peer Mentoring:** We’re all here to learn, and sometimes the best way to do that is by asking and answering questions of your peers. There are many resources for asking questions -- lab coordinator office hours + Slack messages; your cluster Slack channel. The space explicitly open for peer-answered questions is the #helpdesk Slack channel, where both RAs and Summer Lab team members are encouraged to ask and answer questions.
 
@@ -65,23 +65,23 @@ There are two weekly, required meetings for all RAs: a standup meeting on Monday
 
 **Remote Tech & Hardware:** The #cs_techstaff Slack channel is where you can ask Bob, or any other CS Techstaff member, questions about your remote setup. Feel free to ask questions there, or over email (contact info here).
 
-**Security & Privacy:** Better safe than sorry! It’s especially important while working from home or accessing potentially sensitive data sets or University information that you make sure your research environment is secure and safe. Additionally, be careful about how you share files, whether over Google Drive, Slack, email, or Box.
+**Security & Privacy:** Better safe than sorry! It’s especially important while working from home or accessing potentially sensitive data sets or University information that you make sure your research environment is secure and safe. Additionally, be careful about how you share files, whether over [Google Drive](http://www.resilient-networks.com/google-drive-security-best-practices-external-sharing-content-collaboration-platforms/), [Slack](https://slackhq.com/how-to-share-files-in-slack#:~:text=Basics%20of%20file%20sharing,up%20to%201Gb%20in%20size.), email, or [Box](https://www.box.com/free-trial/secure-file-sharing#:~:text=Secure%2C%20share%20and%20edit%20all%20your%20files%20from%20anywhere.,or%20confidential%20ones%E2%80%94without%20worry.).
 
 ### Communication Channels
 
-**Zoom:** you can’t live with it, and you can’t live without it. We will use Zoom for all video conference meetings and events. If you are a UChicago student, please register your Zoom account with ITS. We recommend you download the desktop app for easiest use. Some Zoom best practices:
+**Zoom:** you can’t live with it, and you can’t live without it. We will use Zoom for all video conference meetings and events. If you are a UChicago student, please [register](https://uchicago.zoom.us/) your Zoom account with ITS. We recommend you download the [desktop app](https://zoom.us/download) for easiest use. Some [Zoom best practices](https://it.umn.edu/services-technologies/how-tos/zoom-best-practices-in-meeting-one-page):
 
 * Stay on mute whenever possible.
 * Remove your video in larger calls (i.e. Wednesday speaker series) if your connection is iffy, or if you would generally prefer to have it off.
-* Check privacy and security settings for each meeting, and always require a password.
+* Check privacy and security [settings](https://zoom.us/security) for each meeting, and always require a password.
 
-**Slack:** the central platform for quick communication, addressing questions and cohort-wide announcements/updates. You have all been invited to the CDAC Summer Lab slack workspace. When you’ve accepted and joined, please set up your profile with the following: name/preferred name; cluster; time zone; pronouns; (optional) photo/graphic. Feel free to write an intro message in the #announcements channel, too.
+**Slack:** the central platform for quick communication, addressing questions and cohort-wide announcements/updates. You have all been invited to the [CDAC Summer Lab slack workspace](http://cdac-summerlab.slack.com). When you’ve accepted and joined, please set up your profile with the following: name/preferred name; cluster; time zone; pronouns; (optional) photo/graphic. Feel free to write an intro message in the #announcements channel, too.
 
 Nothing’s sadder than a silent Slack channel, so make this workspace your own and use it to your benefit! We encourage you to share insights, questions, and articles in your cluster channel, and use the other public channels to share and interact with your cohort. Some Slack best practices:
 
 * When you want to be sure people reply to your message in a channel, use “@channel” or “@(name)” to make sure they get a notification.
 * You can control your notification preferences by muting channels.
-* Download the desktop app, and if you’d like, the phone app (Apple/Android) (helpful for notifications while you’re away from your computer).
+* Download the [desktop app](https://slack.com/downloads/windows), and if you’d like, the phone app ([Apple](https://apps.apple.com/us/app/slack/id618783545)/[Android](https://slack.com/help/articles/207691318-Download-Slack-for-Android)) (helpful for notifications while you’re away from your computer).
 
 ### Time Zones
 We’re in a global program this summer, and students are participating from multiple time zones. We’ve taken into account these different time zones as best we can when crafting program schedules and will do our best to accommodate RAs in zones with +-8 hours difference. However, everyone’s flexibility and communication will be needed to help make this as smooth as possible. If for any reason your time zone makes it infeasible for you to participate in a required activity, please let Katie know.
@@ -102,7 +102,7 @@ Occasionally, we’ll send out a short survey for students to provide feedback a
 ## Summer Schedule Overview
 
 ### Google Calendar
-All meeting details and Zoom links are provided on the “CDAC Summer Lab” Google Calendar, which is shared with all students and mentors. If you have a Gmail address that you’d prefer the calendar is shared with, please let Katie know. If you prefer to use the Apple iCal, please use this link to download the calendar.
+All meeting details and Zoom links are provided on the “[CDAC Summer Lab” Google Calendar](https://calendar.google.com/calendar?cid=dWNoaWNhZ28uZWR1X2w1cm9uZG1rMWxtbmtvc2l1MjloNzQ5dmVvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20), which is shared with all students and mentors. If you have a Gmail address that you’d prefer the calendar is shared with, please let Katie know. If you prefer to use the Apple iCal, please use this [link](https://calendar.google.com/calendar/ical/uchicago.edu_l5rondmk1lmnkosiu29h749veo%40group.calendar.google.com/private-5ed7c0d5321d205cfc67b0984c921fb4/basic.ics) to download the calendar.
 
 ### Recurring & One-Time Schedule
 Each RA’s schedule will differ slightly, depending on the demands of their research project. We’ve limited but concentrated the events and programs that are required (most weekly, some one offs), but have an increased the number of optional plug-ins for students to ask questions, discuss in groups, and socialize.
@@ -155,7 +155,7 @@ Week 10 (Cohort A) / Week 11 (Cohort B): Final Check-in | (exact dates TBC)
  * Announced during the program, integrating student feedback and interest. Example event: virtual trivia!
  
 ### Workshops
-* Carpentries Workshop (week 2) | Details TBC 6/12
+* [Carpentries Workshop](https://carpentries.org/about/) (week 2) | Details TBC 6/12
  * The goal of this “on-ramp” workshop is to help make sure everyone is on the same page re: essential software (and possibly some data) carpentry tools before diving into research projects. 
  * Lessons include: Python programming + Unix shell + Version control with Git + Databases/SQL (+ more)
  * We’ll run two concurrent workshops with differently tailored lesson plans. During week 1, you will be able to self-select which workshop best addresses your skill set.
@@ -192,7 +192,7 @@ Talk topics for this summer include:
 * **Human-Computer Interaction:** What do the boundary-pushing frontiers of HCI research look like? In security, robotics, and wearables?
 * **Industry Panel:** What does data science look like in industry and government vs. academia? How do you pursue a career in data science industries?
  * Followed by a workshop with UChicago Career Development
-* **PhD Panel:** Hear from CS PhD students and CDAC Graduate Fellows about their path into academia and recommendations for pursuing higher education in various interdisciplinary computational fields.
+* **PhD Panel:** Hear from CS PhD students and [CDAC Graduate Fellows](https://cdac.uchicago.edu/fellows-and-scholars/) about their path into academia and recommendations for pursuing higher education in various interdisciplinary computational fields.
 * **Image Analysis + AI:** What are the unique challenges of image analysis across domains/applications such as public policy and archaeology?
 * **AI + Science:** How is AI as an emerging field being defined by current cutting-edge research? What are the unique challenges to this field in its myriad real-world applications?
 * **National Labs:** How are National Labs such as Argonne National Lab and Fermilab pushing the boundaries of computational power and scientific discovery?
