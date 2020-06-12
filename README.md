@@ -3,8 +3,6 @@
 
 Welcome to the Data & Computing Summer Lab 2020! People make this program what it is, and our high hopes for this year come from our excitement in welcoming all 38 of you to the program. Each one of you brings a unique background, perspective, and skill set to your research project. CDAC is an interdisciplinary research center, and the impressive range of your projects manifests that multifaceted approach to data science by encompassing over twenty different domains and approaches. We can’t wait to see what you accomplish during this program, and hope to support you along the way.
 
-### Who is this guide for? 
-
 ### What is in this guide? 
 * Summer Lab Team contact info
 * Program Mission
@@ -138,6 +136,82 @@ Friday of Week 10 (Cohort A) / Week 11 (Cohort B): Final Video Symposium | 10:00
 
 Week 10 (Cohort A) / Week 11 (Cohort B): Final Check-in | (exact dates TBC) 
 * RA + member of the Summer Lab team (+ optional mentor(s)) meet to discuss RA’s progress over the summer and achievements on the project.
+
+**Optional Weekly Programming**
+
+*Office Hours (OH)
+ * NB: Week 1 + 2 office hours will be different from weeks 3+. Confirmed OH times (for weeks 3+) will be posted on the Google Calendar & in Slack.
+
+   * Kyle Chard | Thursdays, 10:00am-11:00am CT, Zoom
+   * Julia Hanson | DOW, time, Zoom
+   * Tyler Skluzacek | DOW, time, Zoom
+   * Jinjin Zhao | DOW, time, Zoom
+
+* Wednesdays: Post-talk teatime discussion | 12:00-12:30pm CT, Zoom
+
+* Open Zoom room to discuss that week’s speaker series.
+
+* Social Events
+ * Announced during the program, integrating student feedback and interest. Example event: virtual trivia!
+ 
+**Workshops**
+* Carpentries Workshop (week 2) | Details TBC 6/12
+ * The goal of this “on-ramp” workshop is to help make sure everyone is on the same page re: essential software (and possibly some data) carpentry tools before diving into research projects. 
+ * Lessons include: Python programming + Unix shell + Version control with Git + Databases/SQL (+ more)
+ * We’ll run two concurrent workshops with differently tailored lesson plans. During week 1, you will be able to self-select which workshop best addresses your skill set.
+ 
+**Clusters**
+* Think of this as our version of “staying apart, together.” Especially since we’re remote, and we’re a big group, we wanted to find a way to facilitate small group collaboration, discussion, and connection -- hence, clusters! Each cluster is a group of 8-10 students who are all working on projects related to an umbrella theme. **NB:** each of your projects is interdisciplinary by nature, so if you’re wondering why you’re in one cluster and not another - or, more importantly, if your original cluster assignment isn’t working out - let us know and we can reshuffle the deck.
+
+Here are the four cluster groups:
+* **Applied Machine Learning + AI (Applied ML/AI):** Advancing the new frontier of artificial intelligence & machine learning methods for real-world impact.
+ * Lab Coordinator: Jinjin Zhao
+* **Computational Social Sciences (CSS):** Applying computational analysis to various aspects of society to derive otherwise unforeseen insights.
+ * Lab Coordinator: Tyler Skluzacek
+* **Human-Computer Interaction (HCI):** Meeting at the intersection of humans and technology.
+ * Lab Coordinator: Julia Hanson
+* **Systems (Sys):** Developing the highly performant, secure, and heterogeneous computing systems of the future.
+ * Lab Coordinator: Tyler Skluzacek (+ Kyle Chard as co-coordinator)
+ 
+ In each cluster, you’ll also be part of a peer tripod, or a group of you and two other RAs who are working on similar projects, and are encouraged to collaborate on project questions and discussions. Each cluster will also have a speaker series talk devoted to that subject, and students will have the opportunity to introduce speakers talking on that topic.
+
+### Presentations
+One of the most rewarding yet difficult aspects of the research lifecycle is communicating your research. Crafting a narrative about your project -- from its motivating questions to its methods and findings -- requires you to contextualize your project within larger questions in computational and data science. It’s also good practice to learn how to talk about intricately technical topics to audiences who aren’t content experts within your field.
+Over the course of the program, you’ll work towards a final 2-3 minute video presentation. Unlike in past years where we asked students to do presentations in person, this year we’re going digital -- both to avoid any mid-presentation wifi failures but also so that you can take the opportunity to produce something you’re proud of and can share widely. We’ll provide more instructions and resources in week 3 (thanks to the CDAC Communications Director, Rob Mitchum). On your final day in the program, we’ll have a “Symposium” where we watch each others’ final video presentations.
+You’ll have a chance to do a practice run in a Monday morning stand up meeting (week 5 + 6). We encourage you to leverage and work with your peer tripod and cluster group to get feedback and inspiration for your videos!
+
+### Speaker Series
+Each Wednesday, we’ll host a talk or panel featuring researchers, professors, students, and industry representatives on the front lines of cutting-edge data science and artificial intelligence research. Each talk will be followed by Q&A, and some with small-group discussions. Students will have multiple opportunities to submit questions during each talk, introduce speakers, and even moderate panels. As mentioned above, all talks will be recorded and shared after the fact, so that anyone who can’t attend (because of time zone differences or conflicts) can still hear the talk.
+**NB:** We will hold a talk on June 17th during week 1 of the program, before Cohort B has begun (on June 22nd). Cohort B RAs are still of course welcome and encouraged to attend this talk, even if they haven’t yet started.
+
+Talk topics for this summer include:
+* Lab Coordinator Intros: How to make the most of your summer research program
+* CDAC + CS Intros: Hear firsthand about the expanding efforts around CS and data science at UChicago
+* COVID-19 + Data: What role can data science play in meeting the unprecedented challenges of the COVID-19 pandemic?
+* Faculty Panel: Hear professors talk about their unique path to academia, and ask them questions outside of a classroom context.
+* Human-Computer Interaction: What do the boundary-pushing frontiers of HCI research look like? In security, robotics, and wearables?
+* Industry Panel: What does data science look like in industry and government vs. academia? How do you pursue a career in data science industries?
+* Followed by a workshop with UChicago Career Development
+* PhD Panel: Hear from CS PhD students and CDAC Graduate Fellows about their path into academia and recommendations for pursuing higher education in various interdisciplinary computational fields.
+* Image Analysis + AI: What are the unique challenges of image analysis across domains/applications such as public policy and archaeology?
+* AI + Science: How is AI as an emerging field being defined by current cutting-edge research? What are the unique challenges to this field in its myriad real-world applications?
+* National Labs: How are National Labs such as Argonne National Lab and Fermilab pushing the boundaries of computational power and scientific discovery?
+* Applied Data Science: Data science methodologies advance through interdisciplinary collaboration across domains and approaches. What does data science research look like across fields such as spatial data, medicine, and econ/business?
+
+### Stipends
+In recognition and support of your participation in the program, you have been awarded a stipend. All stipends have been processed, and should be arriving either as a check or a direct deposit/wire transfer. Once you have received your stipend, please email Katie to confirm. If you have any questions regarding your stipend situation, please notify Katie as well.
+
+### Social Events
+While a remote program makes it trickier to put the “play” in “work hard, play hard”, it won’t stop us from offering some online social activities. The cohort experience is built both through project collaboration and work and through connections and fun with games. Stay tuned for more info on social event details throughout the program -- we’ll roll them out as the weeks go on, hopefully with your input.
+
+
+
+
+
+
+
+
+
 
 
 
