@@ -115,33 +115,33 @@ Each RA’s schedule will differ slightly, depending on the demands of their res
 
 Weekly Required Schedule
 * **Mondays:** Cluster Stand Up Meeting | 10:00-10:30am* CT, Zoom 
- * Small group check-in. Stand ups are an opportunity to talk through your tasks and challenges for the week, and bounce ideas and questions off your peers and lab coordinator in a low-stress environment.
- * Monday stand ups will occasionally run longer for presentations/announcements.
+  * Small group check-in. Stand ups are an opportunity to talk through your tasks and challenges for the week, and bounce ideas and questions off your peers and lab coordinator in a low-stress environment.
+  * Monday stand ups will occasionally run longer for presentations/announcements.
 
 * **Wednesdays + Fridays:** Written Stand Up (asynchronous) | Slack cluster channel
- * 1-2 sentences providing an update on project work. This can be done at any time, so long as we see it posted that day.
+  * 1-2 sentences providing an update on project work. This can be done at any time, so long as we see it posted that day.
 * **Wednesdays:** Speaker Series | 11:00am-12:00pm CT, Zoom 30-60 min of various talks and panels from cutting-edge researchers.
- * (occasionally) 10-15 min small group discussions in clusters in Zoom breakout rooms.
- * To accommodate folks for whom the time difference is difficult, we’ll record each talk and share afterwards so they’re accessible to everyone.
+  * (occasionally) 10-15 min small group discussions in clusters in Zoom breakout rooms.
+  * To accommodate folks for whom the time difference is difficult, we’ll record each talk and share afterwards so they’re accessible to everyone.
 
 **Program-Long Required Schedule**
 * **(HOLD) June 23 - June 26, 9:00am-1:00pm:** Carpentries Workshop | Zoom
- * See [“Workshops”](#workshops) below for more info.
+  * See [“Workshops”](#workshops) below for more info.
 
 * **Friday June 26:** Icebreaker Social | Time TBD, Zoom
- * Meet with your cluster for some icebreakers, and then meet & greet with the entire cohort!
+  * Meet with your cluster for some icebreakers, and then meet & greet with the entire cohort!
 
 * **Monday of Week 5 (Cohort A) / Week 6 (Cohort B):** Midpoint Lightning Talk | 10:00-11:00am, Zoom
- * 3-5 minute overview of research project development. No presentation materials (i.e. slide deck) needed, but optional.
+  * 3-5 minute overview of research project development. No presentation materials (i.e. slide deck) needed, but optional.
 
 * **Week 5 (Cohort A) / Week 6 (Cohort B):** Midpoint Check-in | (exact dates TBC)
- * RA and a member of the Summer Lab team meet to discuss progress, challenges, and goals, using the Learning Agreement for reference.
+  * RA and a member of the Summer Lab team meet to discuss progress, challenges, and goals, using the Learning Agreement for reference.
 
 * **Friday of Week 10 (Cohort A) / Week 11 (Cohort B):** Final Video Symposium | 10:00am-12:00pm CT, Zoom
- * Cohort-wide viewing and presentation of students’ final videos.
+  * Cohort-wide viewing and presentation of students’ final videos.
 
 * **Week 10 (Cohort A) / Week 11 (Cohort B):** Final Check-in | (exact dates TBC) 
- * RA + member of the Summer Lab team (+ optional mentor(s)) meet to discuss RA’s progress over the summer and achievements on the project.
+  * RA + member of the Summer Lab team (+ optional mentor(s)) meet to discuss RA’s progress over the summer and achievements on the project.
 
 **Optional Weekly Programming**
 
@@ -154,10 +154,10 @@ Weekly Required Schedule
    * Jinjin Zhao | DOW, time, Zoom
 
 * **Wednesdays:** Post-talk teatime discussion | 12:00-12:30pm CT, Zoom
- * Open Zoom room to discuss that week’s speaker series.
+  * Open Zoom room to discuss that week’s speaker series.
 
 * **Social Events**
- * Announced during the program, integrating student feedback and interest. Example event: virtual trivia!
+  * Announced during the program, integrating student feedback and interest. Example event: virtual trivia!
  
 ### Workshops
 * [Carpentries Workshop](https://carpentries.org/about/) (week 2) | Details TBC 6/12
