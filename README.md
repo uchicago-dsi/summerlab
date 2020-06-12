@@ -10,7 +10,7 @@ The Data & Computing Summer Lab is an immersive 10-week paid summer research pro
 The program is part of the of the [Center for Data and Computing (CDAC)](https://cdac.uchicago.edu/), an intellectual hub and incubator for data science and artificial intelligence research at the University of Chicago.
 
 ### Who is this guide for? 
-The primary audience for this guide is the cohort of research assisants in the current Summer Lab program, however, we want everything we create to be open and accessible to broader community. We hope this is useful to people beyond Summer Lab participants.  
+The primary audience for this guide is the cohort of research assistants (RA) in the current Summer Lab program, however, we want everything we create to be open and accessible to broader community. We hope this is useful to people beyond Summer Lab participants.  
 
 If you are applying to the program or have been accepted as a RA, check out the manual to see how you can prepare before arriving, what orientation and training will cover, and what to expect from the summer.
 
