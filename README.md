@@ -60,14 +60,9 @@ This program offers you the chance to participate in research, possibly for the 
 
 We have 100+ affiliated people (student researchers, mentors, co-mentoring staff, program staff, and more) involved in the program! As a research assistant you will work most directly with your mentor and their research team, including other RAs, students and postdoctoral researchers. In addition to your research team, you'll have access to the CDAC Summer Lab team as resources to support you throughout the program: 
 
-**Program Director: Kyle**
-Program director, mentor in the program + co-coordinator for the Systems cluster group with Tyler.
-Direct any questions or issues to Kyle & Katie.
-Weekly office hours: Thursdays at 10:00am CT.
+**Program Director (Kyle):** Program director, mentor in the program + co-coordinator for the Systems cluster group with Tyler. Direct any questions or issues to Kyle & Katie. Weekly office hours: Thursdays at 10:00am CT.
 
-**Program Admin: Katie**
-Direct any questions (specifically about program logistics, stipends, program dates, etc) to Katie, and any issues to Katie & Kyle.
-Available for check-ins and meetings either via email or Calendly.
+**Program Admin (Katie):** Direct any questions (specifically about program logistics, stipends, program dates, etc) to Katie, and any issues to Katie & Kyle. Available for check-ins and meetings either via email or Calendly.
 
 **Lab Coordinators (LC’s): Jinjin, Julia, + Tyler**
 
