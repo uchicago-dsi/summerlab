@@ -154,13 +154,13 @@ Week 10 (Cohort A) / Week 11 (Cohort B): Final Check-in | (exact dates TBC)
 * Social Events
  * Announced during the program, integrating student feedback and interest. Example event: virtual trivia!
  
-**Workshops**
+### Workshops
 * Carpentries Workshop (week 2) | Details TBC 6/12
  * The goal of this “on-ramp” workshop is to help make sure everyone is on the same page re: essential software (and possibly some data) carpentry tools before diving into research projects. 
  * Lessons include: Python programming + Unix shell + Version control with Git + Databases/SQL (+ more)
  * We’ll run two concurrent workshops with differently tailored lesson plans. During week 1, you will be able to self-select which workshop best addresses your skill set.
  
-**Clusters**
+### Clusters
 * Think of this as our version of “staying apart, together.” Especially since we’re remote, and we’re a big group, we wanted to find a way to facilitate small group collaboration, discussion, and connection -- hence, clusters! Each cluster is a group of 8-10 students who are all working on projects related to an umbrella theme. **NB:** each of your projects is interdisciplinary by nature, so if you’re wondering why you’re in one cluster and not another - or, more importantly, if your original cluster assignment isn’t working out - let us know and we can reshuffle the deck.
 
 Here are the four cluster groups:
