@@ -113,7 +113,7 @@ All meeting details and Zoom links are provided on the “[CDAC Summer Lab” Go
 ### Recurring & One-Time Schedule
 Each RA’s schedule will differ slightly, depending on the demands of their research project. We’ve limited but concentrated the events and programs that are required (most weekly, some one offs), but have an increased the number of optional plug-ins for students to ask questions, discuss in groups, and socialize.
 
-Weekly Required Schedule
+**Weekly Required Schedule**
 * **Mondays:** Cluster Stand Up Meeting | 10:00-10:30am* CT, Zoom 
   * Small group check-in. Stand ups are an opportunity to talk through your tasks and challenges for the week, and bounce ideas and questions off your peers and lab coordinator in a low-stress environment.
   * Monday stand ups will occasionally run longer for presentations/announcements.
@@ -182,11 +182,15 @@ Here are the four cluster groups:
 
 ### Presentations
 One of the most rewarding yet difficult aspects of the research lifecycle is communicating your research. Crafting a narrative about your project -- from its motivating questions to its methods and findings -- requires you to contextualize your project within larger questions in computational and data science. It’s also good practice to learn how to talk about intricately technical topics to audiences who aren’t content experts within your field.
-Over the course of the program, you’ll work towards a final 2-3 minute video presentation. Unlike in past years where we asked students to do presentations in person, this year we’re going digital -- both to avoid any mid-presentation wifi failures but also so that you can take the opportunity to produce something you’re proud of and can share widely. We’ll provide more instructions and resources in week 3 (thanks to the CDAC Communications Director, Rob Mitchum). On your final day in the program, we’ll have a “Symposium” where we watch each others’ final video presentations.
+
+Over the course of the program, you’ll work towards a final 2-3 minute video presentation. Unlike in past years where we asked students to do presentations in person, this year we’re going digital -- both to avoid any mid-presentation wifi failures but also so that you can take the opportunity to produce something you’re proud of and can share widely. We’ll provide more instructions and resources in week 3 (thanks to the CDAC Communications Director, Rob Mitchum). 
+
+On your final day in the program, we’ll have a “Symposium” where we watch each others’ final video presentations.
 You’ll have a chance to do a practice run in a Monday morning stand up meeting (week 5 + 6). We encourage you to leverage and work with your peer tripod and cluster group to get feedback and inspiration for your videos!
 
 ### Speaker Series
 Each Wednesday, we’ll host a talk or panel featuring researchers, professors, students, and industry representatives on the front lines of cutting-edge data science and artificial intelligence research. Each talk will be followed by Q&A, and some with small-group discussions. Students will have multiple opportunities to submit questions during each talk, introduce speakers, and even moderate panels. As mentioned above, all talks will be recorded and shared after the fact, so that anyone who can’t attend (because of time zone differences or conflicts) can still hear the talk.
+
 **NB:** We will hold a talk on June 17th during week 1 of the program, before Cohort B has begun (on June 22nd). Cohort B RAs are still of course welcome and encouraged to attend this talk, even if they haven’t yet started.
 
 Talk topics for this summer include:
