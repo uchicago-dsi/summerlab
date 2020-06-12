@@ -11,7 +11,7 @@ Welcome to the Data & Computing Summer Lab 2020! People make this program what i
 * [Remote Resources + Working from Home](#remote-resources-working-from-home)
 * [Summer Schedule Overview](#summer-schedule-overview)
 * [Clusters](#clusters)
-* [Presentations](#preentations)
+* [Presentations](#presentations)
 * [Speaker series](#speaker-series)
 * [Stipends](#stipends)
 * [Social Events](#social-events)
