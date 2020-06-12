@@ -5,16 +5,16 @@ Welcome to the Data & Computing Summer Lab 2020! People make this program what i
 
 ### What is in this guide? 
 * [Summer Lab Team contact info](#summer-lab-team)
-* Program Mission
-* Student Experience
-* Research Assistant (RA) expectations
-* Remote Resources + Working from Home
-* Summer Schedule Overview
-* Clusters
-* Presentations
-* Speaker series
-* Stipends
-* Social Events
+* [Program Mission](#program-mission)
+* [Student Experience](#student-experience) 
+* [Research Assistant (RA) expectations](#research-assistant-(ra)-expectations)
+* [Remote Resources + Working from Home](#remote-resources-+-working-from-home)
+* [Summer Schedule Overview](#summer-schedule-overview)
+* [Clusters](#clusters)
+* [Presentations](#preentations)
+* [Speaker series](#speaker-series)
+* [Stipends](#stipends)
+* [Social Events](#social-events)
 
 ### Summer Lab Team
 * Kyle Chard, Program Director
