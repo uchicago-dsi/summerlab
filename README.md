@@ -135,7 +135,7 @@ Occasionally, we’ll send out a short survey for students to provide feedback a
 ## Summer Schedule Overview
 
 ### Google Calendar
-All meeting details and Zoom links are provided on the “[CDAC Summer Lab” Google Calendar](https://calendar.google.com/calendar?cid=dWNoaWNhZ28uZWR1X2w1cm9uZG1rMWxtbmtvc2l1MjloNzQ5dmVvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20), which is shared with all students and mentors. If you have a Gmail address that you’d prefer the calendar is shared with, please let Katie know. If you prefer to use the Apple iCal, please use this [link](https://calendar.google.com/calendar/ical/uchicago.edu_l5rondmk1lmnkosiu29h749veo%40group.calendar.google.com/private-5ed7c0d5321d205cfc67b0984c921fb4/basic.ics) to download the calendar.
+All meeting details and Zoom links are provided on the “CDAC Summer Lab” Google Calendar, which is shared with all students and mentors. If you have a Gmail address that you’d prefer the calendar is shared with, please let Katie know. 
 
 ### Recurring & One-Time Schedule
 Each RA’s schedule will differ slightly, depending on the demands of their research project. We’ve limited but concentrated the events and programs that are required (most weekly, some one offs), but have an increased the number of optional plug-ins for students to ask questions, discuss in groups, and socialize.
