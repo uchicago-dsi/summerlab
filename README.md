@@ -48,7 +48,7 @@ If you are applying to the program or have been accepted as a RA, check out the 
 The mission of the program is to foster an inclusive research environment where students from all backgrounds gain hands-on research experience and build critical computational and data science skills. It’s our goal to run a program that balances the rigors of research with a collaborative, cohort experience to train the next generation of interdisciplinary computational and data scientists. 
 
 ### Student Experience
-This program offers you the chance to participate in research, possibly for the first time, outside of a classroom environment. This can bring its own challenges, but we hope that you make the most of this research experience. This program also uniquely offers you chances to collaborate and build friendships with fellow young minds intrigued by computational puzzles. We hope you use this summer to: 
+This program offers you the chance to participate in research, possibly for the first time, outside of a classroom environment. This can bring its own challenges, but we hope that you make the most of this research experience. This program also uniquely offers you chances to collaborate and build friendships with fellow minds intrigued by computational puzzles. We hope you use this summer to: 
 * Engage with and contribute to your cohort and cluster
 * Conduct interdisciplinary data science research 
 * Collaborate with and learn from your cohort peers
