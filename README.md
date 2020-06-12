@@ -7,7 +7,7 @@ CDAC is an interdisciplinary research center, and the impressive range of your p
 
 The Data & Computing Summer Lab is an immersive 10-week paid summer research program at the University of Chicago. Through the program, high school and undergraduate students work on data science research projects across a variety domains and applications, such as computer science, computational social sciences, biomedicine, computer vision, machine learning/AI, human-computer interaction, networks, and more.
 
-The program is part of the of the [Center for Data and Computing (CDAC)] (https://cdac.uchicago.edu/), an intellectual hub and incubator for data science and artificial intelligence research at the University of Chicago.
+The program is part of the of the [Center for Data and Computing (CDAC)](https://cdac.uchicago.edu/), an intellectual hub and incubator for data science and artificial intelligence research at the University of Chicago.
 
 ### What is in this guide? 
 * [Summer Lab Team contact info](#summer-lab-team)
