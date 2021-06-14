@@ -17,13 +17,13 @@ If you are applying to the program or have been accepted as a RA, check out the 
 * [Program Mission](#program-mission)
 * [Student Experience](#student-experience) 
 * [People](#people) 
-* [Research Assistant (RA) expectations](#research-assistant-ra-expectations)
+* [Research Assistant (RA) Expectations](#research-assistant-ra-expectations)
 * [Remote Resources + Working from Home](#remote-resources--working-from-home)
 * [Summer Schedule Overview](#summer-schedule-overview)
 * [Weekly Schedule](#weekly-schedule)
 * [Workshops & Presentations](#presentations)
 * [Clusters](#clusters)
-* [Speaker series](#speaker-series)
+* [Speaker Series](#speaker-series)
 * [Stipends](#stipends)
 * [Social Events](#social-events)
 
@@ -31,15 +31,15 @@ If you are applying to the program or have been accepted as a RA, check out the 
 * [Kyle Chard](mailto:chard@uchicago.edu), Program Director
 * [Katie Rosengarten](mailto:krosengarten@uchicago.edu), Administrative Specialist
 * [Yujie Tao](mailto:yujiet@uchicago.edu), Lab Coordinator (HCI Cluster)
- * Office Hours: Wednesdays + Thursdays 4-5pm CDT
+  * Office Hours: Wednesdays + Thursdays 4-5pm CDT
 * [Kyle MacMillan](mailto:macmillan@uchicago.edu), Lab Coordinator (Networks + Neighborhoods Cluster)
- * Office Hours: Tuesdays 1-3pm CDT
+  * Office Hours: Tuesdays 1-3pm CDT
 * [Valerie Zhao](mailto:vzhao@uchicago.edu), Lab Coordinator (Natural and Computational Systems Cluster)
- * Office Hours: Fridays, 10am-12pm CDT
+  * Office Hours: Fridays, 10am-12pm CDT
 * [Zhuokai Zhao](mailto:zhuokai@uchicago.edu), Lab Coordinator (Social Impact Track Cluster)
- * Office Hours: Mondays 2-4pm CDT (starting 6/21)
+  * Office Hours: Mondays 2-4pm CDT (starting 6/21)
 * [Matt Baughman](mailto:mbaughman@uchicago.edu), Lab Coordinator (Applied ML/AI Cluster)
- * Office Hours: Fridays 3-5pm CDT
+  * Office Hours: Fridays 3-5pm CDT
 * [Daniel Grzenda](mailto:grzenda@uchicago.edu), CDAC Staff Data Scientist (Social Impact Track Lead)
 * [Julia Lane](mailto:jlane2@uchicago.edu), CDAC Executive Director
 * [Bob Bartlett](http://rdb@uchicago.edu), CS Techstaff
@@ -67,7 +67,7 @@ We have 100+ affiliated people (student researchers, mentors, co-mentoring staff
 **Lab Coordinators (LCs):**
 
 Each [cluster](#cluster) has a designated lab coordinator, but each lab coordinator is available for help with questions from any RA.
-* Lab coordinators and Kyle will each hold weekly office hours on Zoom, open to anyone.
+* Lab coordinators will each hold weekly office hours on Zoom, open to anyone.
 * Lab coordinators are also a great resource for navigating research and mentor/lab working relationships. They’re also there to answer questions you might feel silly asking - to remind you that all questions are good, and work through it with you. Ask them questions in the Slack channel #helpdesk or in a direct message.
 
 
@@ -171,9 +171,9 @@ All meeting details and Zoom links are provided on the “CDAC Summer Lab 2021�
 
 * **On-Ramp Skills Workshop (Week 2: June 23rd - June 25th, 3-5pm CDT)**
   * 3 Modules, 2 hours/ea
-   * Unix Shell + software downloads
-   * Version Control w/ Git
-   * Python for Data Science
+    * Unix Shell + software downloads
+    * Version Control w/ Git
+    * Python for Data Science
   * Each module will offer a beginner and an intermediate/advanced section
   * Beginner sessions are intended for students with little to no experience with the module topic
   * Intermediate/advanced sessions are intended for students with working knowledge of the module topic, and who are looking to deepen their understanding of the skill
