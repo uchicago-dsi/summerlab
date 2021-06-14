@@ -144,53 +144,53 @@ All meeting details and Zoom links are provided on the “CDAC Summer Lab 2021�
 ### Weekly Schedule 
 
 * **Stand Ups (Monday - Zoom, Wednesday/Friday - Slack)** 
- * Set goals for the week, check progress on project tasks
- * Ask lab coordinators and peers questions
- * Stand ups are an opportunity to talk through your tasks and challenges for the week, and bounce ideas and questions off your peers and lab coordinator in a low-stress environment. Written standups are 1-2 sentences providing an update on project work. Prompts will be posted by 10am CDT, and responses should be posted by 12pm CDT.
+  * Set goals for the week, check progress on project tasks
+  * Ask lab coordinators and peers questions
+  * Stand ups are an opportunity to talk through your tasks and challenges for the week, and bounce ideas and questions off your peers and lab coordinator in a low-stress environment. Written standups are 1-2 sentences providing an update on project work. Prompts will be posted by 10am CDT, and responses should be posted by 12pm CDT.
 
 * **Speaker Series (Wednesdays) ([see more below](##speaker-series))**
- * Host speakers doing cutting edge data science research, discuss their career paths and research
- * A mix of research talks and panels
- * To accommodate folks for whom the time difference is difficult, we’ll record each talk and share afterwards so they’re accessible to everyone
- * Post-talk teatimes + tech demos ([Crerar Gather.town](https://gather.town/app/XSH5gsi5EphcQgMl/JCL))
+   * Host speakers doing cutting edge data science research, discuss their career paths and research
+   * A mix of research talks and panels
+   * To accommodate folks for whom the time difference is difficult, we’ll record each talk and share afterwards so they’re accessible to everyone
+   * Post-talk teatimes + tech demos ([Crerar Gather.town](https://gather.town/app/XSH5gsi5EphcQgMl/JCL))
 
 
 * **Office Hours (1 x Lab Coordinator x 2 hours/ea)**
- * Students must attend at least one office hour within the first two weeks of the program
- * Office hours will take place either on Zoom or in Gather (see below)
- * Technical questions, advice about navigating student research, and more
+  * Students must attend at least one office hour within the first two weeks of the program
+  * Office hours will take place either on Zoom or in Gather (see below)
+  * Technical questions, advice about navigating student research, and more
  * Office Hour Schedule 
  * NB: Week 2 office hours (w/o June 21st) will differ due to the on-ramp workshop, please see the program calendar for details
-  * Zhuokai Zhao OHs: Mondays 2-4pm CDT (Zoom) (starting 6/21)
-  * Kyle MacMillan OHs: Tuesdays 1-3pm CDT (Zoom)
-  * Yujie Tao OHs: Wednesdays + Thursdays 4-5pm CDT (Zoom)
-  * Valerie Zhao OHs: Fridays 10am-12pm CDT (Zoom)
-  * Matt Baughman OHs: Fridays 3-5pm CDT (Crerar Gather.town)
+   * Zhuokai Zhao OHs: Mondays 2-4pm CDT (Zoom) (starting 6/21)
+   * Kyle MacMillan OHs: Tuesdays 1-3pm CDT (Zoom)
+   * Yujie Tao OHs: Wednesdays + Thursdays 4-5pm CDT (Zoom)
+   * Valerie Zhao OHs: Fridays 10am-12pm CDT (Zoom)
+   * Matt Baughman OHs: Fridays 3-5pm CDT (Crerar Gather.town)
 
 ### Workshops + Presentations
 
 * **On-Ramp Skills Workshop (Week 2: June 23rd - June 25th, 3-5pm CDT)**
- * 3 Modules, 2 hours/ea
-  * Unix Shell + software downloads
-  * Version Control w/ Git
-  * Python for Data Science
- * Each module will offer a beginner and an intermediate/advanced section
- * Beginner sessions are intended for students with little to no experience with the module topic
- * Intermediate/advanced sessions are intended for students with working knowledge of the module topic, and who are looking to deepen their understanding of the skill
- * The goal of the on-ramp workshop is to introduce or deepen skill sets in essential data science skills and tools
- * We will provide resources for further skills development throughout the summer, and encourage students to discuss with their mentor other skill sets or tools they will need to use for their project
+  * 3 Modules, 2 hours/ea
+   * Unix Shell + software downloads
+   * Version Control w/ Git
+   * Python for Data Science
+  * Each module will offer a beginner and an intermediate/advanced section
+  * Beginner sessions are intended for students with little to no experience with the module topic
+  * Intermediate/advanced sessions are intended for students with working knowledge of the module topic, and who are looking to deepen their understanding of the skill
+  * The goal of the on-ramp workshop is to introduce or deepen skill sets in essential data science skills and tools
+  * We will provide resources for further skills development throughout the summer, and encourage students to discuss with their mentor other skill sets or tools they will need to use for their project
 
 * **Lightning Talks (Week 5 or 6)** 
- * 3-minute presentation in clusters
- * Practice for final videos
- * Templates and guidelines will be provided
+  * 3-minute presentation in clusters
+  * Practice for final videos
+  * Templates and guidelines will be provided
 
 * **Professional Development Workshop with the Office of Career Advancement**
 * **Final Videos + Symposium (Week 10 or 11)**
- * 5-minute video recording presenting your research project
- * Present to cohort peers and mentors in conference-style symposium
- * We will provide details on how to prepare your final video and resources for video editing
- * See the 2020 cohort’s final videos [here](https://www.youtube.com/playlist?list=PL0IrIAIuK93E7cbGQFuGn8NWltNYDwxMh)
+  * 5-minute video recording presenting your research project
+  * Present to cohort peers and mentors in conference-style symposium
+  * We will provide details on how to prepare your final video and resources for video editing
+  * See the 2020 cohort’s final videos [here](https://www.youtube.com/playlist?list=PL0IrIAIuK93E7cbGQFuGn8NWltNYDwxMh)
 
  
 ### Clusters
@@ -202,13 +202,13 @@ Here are the cluster groups:
 * **Applied Machine Learning + AI (Applied ML/AI)**
   * Lab Coordinator: Matt Baughman
 * **Natural and Computational Systems**
- * Lab Coordinator: Valerie Zhao
+  * Lab Coordinator: Valerie Zhao
 * **Human-Computer Interaction (HCI)** 
- * Lab Coordinator: Yujie Tao
+  * Lab Coordinator: Yujie Tao
 * **Networks + Neighborhoods** 
- * Lab Coordinator: Kyle MacMillan
+  * Lab Coordinator: Kyle MacMillan
 * **Social Impact Track**
- * Lab Coordinator: Zhuokai Zhao
+  * Lab Coordinator: Zhuokai Zhao
 
 ### Presentations
 One of the most rewarding yet difficult aspects of the research lifecycle is communicating your research. Crafting a narrative about your project -- from its motivating questions to its methods and findings -- requires you to contextualize your project within larger questions in computational and data science. It’s also good practice to learn how to talk about intricately technical topics to audiences who aren’t content experts within your field.
