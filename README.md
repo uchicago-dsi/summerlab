@@ -1,7 +1,5 @@
-# Welcome to the CDAC Summer Lab 
-Welcome to the Data & Computing Summer Lab! People make this program what it is, and our high hopes for this year come from our excitement in welcoming all of you to the program. Each one of you brings a unique background, perspective, and skill set to your research project. 
-
-CDAC is an interdisciplinary research center, and the impressive range of your projects manifests that multifaceted approach to data science by encompassing over twenty different domains and approaches. We can’t wait to see what you accomplish during this program, and hope to support you along the way.
+# Welcome to CDAC Summer Lab | Student Manual
+Welcome to the Data & Computing Summer Lab 2021! People make this program what it is, and we are delighted to welcome all of you to this year’s cohort. Each one of you brings a unique background, perspective, and skill set to your research project. CDAC is an interdisciplinary research center, and the impressive range of your projects manifests that multifaceted approach to data science by encompassing over twenty different domains and approaches. We can’t wait to see what you accomplish during this program, and are here to support you along the way.
 
 ### What is the Data and Computing Summer Lab Program?
 
@@ -14,41 +12,42 @@ The primary audience for this guide is the cohort of research assistants (RA) in
 
 If you are applying to the program or have been accepted as a RA, check out the manual to see how you can prepare before arriving, what orientation and training will cover, and what to expect from the summer.
 
-# What is in this guide? 
-* [Summer Lab Team contact info](#summer-lab-team)
+# What is in this manual? 
+* [Summer Lab Team](#summer-lab-team)
 * [Program Mission](#program-mission)
 * [Student Experience](#student-experience) 
 * [People](#people) 
 * [Research Assistant (RA) expectations](#research-assistant-ra-expectations)
 * [Remote Resources + Working from Home](#remote-resources--working-from-home)
 * [Summer Schedule Overview](#summer-schedule-overview)
+* [Workshops & Presentations](#presentations)
 * [Clusters](#clusters)
-* [Presentations](#presentations)
 * [Speaker series](#speaker-series)
 * [Stipends](#stipends)
 * [Social Events](#social-events)
 
 ### Summer Lab Team
-* Kyle Chard, Program Director
-  * chard@uchicago.edu
-  * Office Hours: 10:00am-11:00am (CT), Thursdays
-* Katie Rosengarten, Administrative Specialist
-  * krosengarten@uchicago.edu
-  * Meeting Appointments: calendly.com/krosengarten
-* Julia Hanson, Lab Coordinator & HCI Cluster Lead
-  * jchanson@uchicago.edu 
-* Tyler Skluzacek, Lab Coordinator & Systems/CSS Cluster Lead
-  * skluzacek@uchicago.edu 
-* Jinjin Zhao, Lab Coordinator & ML/AI Cluster Lead
-  * j2zhao@uchicago.edu
-* Bob Bartlett, CS Techstaff
-  * rdb@uchicago.edu 
+* [Kyle Chard](mailto:chard@uchicago.edu), Program Director
+* [Katie Rosengarten](mailto:krosengarten@uchicago.edu), Administrative Specialist
+* [Yujie Tao](mailto:yujiet@uchicago.edu), Lab Coordinator (HCI Cluster)
+ * Office Hours: Wednesdays + Thursdays 4-5pm CDT
+* [Kyle MacMillan](mailto:macmillan@uchicago.edu), Lab Coordinator (Networks + Neighborhoods Cluster)
+ * Office Hours: Tuesdays 1-3pm CDT
+* [Valerie Zhao](mailto:vzhao@uchicago.edu), Lab Coordinator (Natural and Computational Systems Cluster)
+ * Office Hours: Fridays, 10am-12pm CDT
+* [Zhuokai Zhao](mailto:zhuokai@uchicago.edu), Lab Coordinator (Social Impact Track Cluster)
+ * Office Hours: Mondays 2-4pm CDT (starting 6/21)
+* [Matt Baughman](mailto:mbaughman@uchicago.edu), Lab Coordinator (Applied ML/AI Cluster)
+ * Office Hours: Fridays 3-5pm CDT
+* [Daniel Grzenda](mailto:grzenda@uchicago.edu), CDAC Staff Data Scientist (Social Impact Track Lead)
+* [Julia Lane](mailto:jlane2@uchicago.edu), CDAC Executive Director
+* [Bob Bartlett](http://rdb@uchicago.edu), CS Techstaff
 
 ### Program Mission
 The mission of the program is to foster an inclusive research environment where students from all backgrounds gain hands-on research experience and build critical computational and data science skills. It’s our goal to run a program that balances the rigors of research with a collaborative, cohort experience to train the next generation of interdisciplinary computational and data scientists. 
 
 ### Student Experience
-This program offers you the chance to participate in research, possibly for the first time, outside of a classroom environment. This can bring its own challenges, but we hope that you make the most of this research experience. This program also uniquely offers you chances to collaborate and build friendships with fellow minds intrigued by computational puzzles. We hope you use this summer to: 
+This program offers you the chance to learn, possibly for the first time, outside of a classroom environment. This can bring its own challenges, but we hope that you make the most of this research experience. This program also uniquely offers you chances to collaborate and build friendships with other folks intrigued by computational puzzles. We hope you use this summer to: 
 * Engage with and contribute to your cohort and cluster
 * Conduct interdisciplinary data science research 
 * Collaborate with and learn from your cohort peers
@@ -58,47 +57,46 @@ This program offers you the chance to participate in research, possibly for the 
 
 ### People 
 
-We have 100+ affiliated people (student researchers, mentors, co-mentoring staff, program staff, and more) involved in the program! As a research assistant you will work most directly with your mentor and their research team, including other RAs, students and postdoctoral researchers. In addition to your research team, you'll have access to the CDAC Summer Lab team as resources to support you throughout the program: 
+We have 100+ affiliated people (student researchers, mentors, co-mentoring staff, program staff, and more) involved in the program each year. As a research assistant you will work most directly with your mentor and their research team, including other RAs, students and postdoctoral researchers. In addition to your research team, you'll have access to the CDAC Summer Lab team as resources to support you throughout the program: 
 
-**Program Director (Kyle):** Program director, mentor in the program + co-coordinator for the Systems cluster group with Tyler. Direct any questions or issues to Kyle & Katie. Weekly office hours: Thursdays at 10:00am CT.
+**Program Director (Kyle):** Program director, mentor in the program. Direct any questions or issues to Kyle & Katie.
 
 **Program Admin (Katie):** Direct any questions (specifically about program logistics, stipends, program dates, etc) to Katie, and any issues to Katie & Kyle. Available for check-ins and meetings either via email or Calendly.
 
-**Lab Coordinators (LC’s): Jinjin, Julia, + Tyler**
+**Lab Coordinators (LCs):**
 
 Each [cluster](#cluster) has a designated lab coordinator, but each lab coordinator is available for help with questions from any RA.
 * Lab coordinators and Kyle will each hold weekly office hours on Zoom, open to anyone.
 * Lab coordinators are also a great resource for navigating research and mentor/lab working relationships. They’re also there to answer questions you might feel silly asking - to remind you that all questions are good, and work through it with you. Ask them questions in the Slack channel #helpdesk or in a direct message.
 
-**Peer Tripods:** The rule of threes! Just like the clusters provide small group facilitation within the larger cohort, peer tripods (groups of 3 students within each cluster) aim to provide even closer connection and collaboration among RAs. Your peer tripod is there to help with everything from questions you don’t want to ask your mentor but need help with; feedback on your final video presentation; and a “peer buddy”-style support system.
-
-Peer tripod groupings will be sent out during week 2, once we’ve all gotten to meet and settle into our projects. We’ll all meet in the tripods during an “Icebreaker Social” event on Friday June 26th (see [“Social Events”](#social-events) below for more info). 
 
 **Co-Mentoring Staff:** A lot of your projects are ingrained in existing research labs, and the co-mentoring staff any PhDs, postdocs, researchers, or even fellow student researchers who you’re working with. 
 
 
 ### Research Assistant (RA) Expectations
 
-**The Cohort:** At the core of the Summer Lab program is the cohort: that’s you! And your fellow RAs. Cohort building occurs through various aspects of the program, such as: engaging in discussions with your cluster and peer tripod, attending talks, participating in discussions in Slack, joining program social activities, and posting and answering questions in the Slack #helpdesk channel. By participating in the program to your fullest ability and contributing to the cohort experience, each RA is expected to abide by a collegial, mutually-respectful code of conduct (as upheld in the [UChicago Student Manual](https://studentmanual.uchicago.edu/)).
+**The Cohort:** At the core of the Summer Lab program is the student cohort. Cohort building occurs through various aspects of the program, such as: engaging in discussions with your cluster, attending talks, participating in discussions in Slack, joining social activities, and posting and answering questions in the Slack #helpdesk channel. We believe that students get out of the experience what they put in, and by participating in the program to your fullest ability and contributing to the cohort experience, you contribute not just to our own positive experience but to everyone else’s. Everyone is expected to abide by a collegial, mutually-respectful code of conduct (as upheld in the [UChicago Student Manual](https://studentmanual.uchicago.edu/)).
 
-**Peer Mentoring:** We’re all here to learn, and sometimes the best way to do that is by asking and answering questions of your peers. There are many resources for asking questions -- lab coordinator office hours + Slack messages; your cluster Slack channel. The space explicitly open for peer-answered questions is the #helpdesk Slack channel, where both RAs and Summer Lab team members are encouraged to ask and answer questions.
+**Peer Mentoring:** We’re all here to learn, and sometimes the best way to do that is by asking and answering questions of your peers. There are many places to ask questions: in office hours, on Slack, in standup meetings. The space intended for peer-answered questions is the \#helpdesk Slack channel, where both RAs and Summer Lab team members are encouraged to ask and answer questions.
 
 **Attendance:** All RAs are expected to complete the full ten weeks of the program. If for any reason you need to request time off, please discuss the situation with your mentor(s), Kyle, and Katie. Mentors have final say over adjusted schedules, and any scheduling agreements should be addressed in the Learning Agreement document. 
-There are two weekly, required meetings for all RAs: a standup meeting on Mondays at 10:00-10:30am CT, and a speaker series talk on Wednesdays at 11:00am-12:00pm CT. All other meetings are optional, but encouraged, unless otherwise noted. 
 
-**Time:** Each RA is expected to contribute a full-time schedule (37.5 hrs/wk) to their research project. RAs are not required to log or document hours worked (unless using Workday).
+There are two weekly, required meetings for all RAs: a standup meeting on Mondays at 11:00am CDT, and a speaker series talk on Wednesdays at 12:00pm CT. All other meetings are optional, but encouraged, unless otherwise noted. If you are unable to attend the speaker series due to a time zone conflict, please let Katie know, and plan on watching the session recordings.
+
+**Schedule:** Each RA is expected to contribute a full-time schedule (37.5-40 hrs/wk) to their research project. RAs are not required to log or document hours worked (unless using Workday). Your schedule will contain a mix of some Summer Lab programmatic activities, meetings with your mentor(s) and lab group, and any other related events.
 
 **COVID-19 Policy:** In the context of the global coronavirus pandemic, we understand that unexpected challenges may arise during the course of the program. The health and safety of our community is our priority. Should any circumstance arise that compromises your ability to participate in the program, please discuss with your mentor, Kyle, and Katie as soon as possible to develop a plan going forward.
 
-**Anti-Harassment Statement:** The Summer Lab program has a zero tolerance policy regarding harassment of any form. In remote work circumstances, this applies particularly to cyberbullying. It is important to consider that nuance can get lost in remote communications, so please be extra careful of how you communicate with others, in particular with your peers. Instances of harassment should be reported directly to Kyle and Katie.
+**Anti-Harassment Statement:** The Summer Lab program has a zero tolerance policy regarding harassment or discrimination of any form. We seek to promote and encourage a mutually-respectful environment for all people in the program (students, mentors, and staff). In remote work circumstances, this applies particularly to cyberbullying. It is important to consider that nuance can get lost in remote communications, so please be extra careful of how you communicate with others, in particular with your peers. The program and its participants abide by the policies listed in the [University’s Policy on Harassment, Discrimination, and Sexual Misconduct](https://harassmentpolicy.uchicago.edu/policy/), and should use the reporting structures therein should any incidents occur.
+
 
 ### Remote Resources + Working From Home
 
-**UChicago Accounts:** Everyone should have either a permanent or temporary UChicago CNet ID. Your CNet will allow you to access any University servers or information pertaining to your project (if applicable). If you have any troubles with your account, please contact Bob Bartlett.
+**UChicago Accounts:** Everyone should have either a permanent or temporary UChicago CNet ID. Your CNet will allow you to access any University servers or information pertaining to your project (if applicable). If you have any troubles with your account, please contact [Bob Bartlett](mailto:rdb@uchicago.edu).
 
 **Remote Tech & Hardware:** The #cs_techstaff Slack channel is where you can ask Bob, or any other CS Techstaff member, questions about your remote setup. Feel free to ask questions there, or over email (contact info here).
 
-**Security & Privacy:** Better safe than sorry! It’s especially important while working from home or accessing potentially sensitive data sets or University information that you make sure your research environment is secure and safe. Additionally, be careful about how you share files, whether over [Google Drive](http://www.resilient-networks.com/google-drive-security-best-practices-external-sharing-content-collaboration-platforms/), [Slack](https://slackhq.com/how-to-share-files-in-slack#:~:text=Basics%20of%20file%20sharing,up%20to%201Gb%20in%20size.), email, or [Box](https://www.box.com/free-trial/secure-file-sharing#:~:text=Secure%2C%20share%20and%20edit%20all%20your%20files%20from%20anywhere.,or%20confidential%20ones%E2%80%94without%20worry.).
+**Security & Privacy:** Follow your mentor’s policies and guidance regarding access and storage of data for your project. To ensure your research environment is secure and safe, please follow best practices when using tools like [Google Drive](http://www.resilient-networks.com/google-drive-security-best-practices-external-sharing-content-collaboration-platforms/), [Slack](https://slackhq.com/how-to-share-files-in-slack#:~:text=Basics%20of%20file%20sharing,up%20to%201Gb%20in%20size.), email, or [Box](https://www.box.com/free-trial/secure-file-sharing#:~:text=Secure%2C%20share%20and%20edit%20all%20your%20files%20from%20anywhere.,or%20confidential%20ones%E2%80%94without%20worry.).
 
 ### Communication Channels
 
