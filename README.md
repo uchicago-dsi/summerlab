@@ -102,17 +102,21 @@ There are two weekly, required meetings for all RAs: a standup meeting on Monday
 
 **Zoom:** you can’t live with it, and you can’t live without it. We will use Zoom for all video conference meetings and events. If you are a UChicago student, please [register](https://uchicago.zoom.us/) your Zoom account with ITS. We recommend you download the [desktop app](https://zoom.us/download) for easiest use. Some [Zoom best practices](https://it.umn.edu/services-technologies/how-tos/zoom-best-practices-in-meeting-one-page):
 
-* Stay on mute whenever possible.
+* Stay on mute when not speaking to reduce background noise.
+* [Virtual backgrounds](https://zoom.us/virtual-backgrounds)
+* [Non-verbal reactions](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
 * Remove your video in larger calls (i.e. Wednesday speaker series) if your connection is iffy, or if you would generally prefer to have it off.
 * Check privacy and security [settings](https://zoom.us/security) for each meeting, and always require a password.
 
-**Slack:** the central platform for quick communication, addressing questions and cohort-wide announcements/updates. You have all been invited to the [CDAC Summer Lab slack workspace](http://cdac-summerlab.slack.com). When you’ve accepted and joined, please set up your profile with the following: name/preferred name; cluster; time zone; pronouns; (optional) photo/graphic. Feel free to write an intro message in the #announcements channel, too.
+**Slack:** the central platform for quick communication, addressing questions and cohort-wide announcements/updates. You have all been invited to the [CDAC Summer Lab slack workspace](http://cdac-summerlab.slack.com). When you’ve accepted and joined, please set up your profile with the following: name/preferred name; cluster; time zone; pronouns; (optional) photo/graphic. Feel free to write an intro message in the /#intros channel, too.
 
-Nothing’s sadder than a silent Slack channel, so make this workspace your own and use it to your benefit! We encourage you to share insights, questions, and articles in your cluster channel, and use the other public channels to share and interact with your cohort. Some Slack best practices:
+This workspace is here for you to leverage, so make this workspace your own and use it to your benefit. We encourage you to share insights, questions, and articles in your cluster channel, and use the other public channels to share and interact with your cohort. Some Slack best practices:
 
-* When you want to be sure people reply to your message in a channel, use “@channel” or “@(name)” to make sure they get a notification.
+* When you want to be sure people reply to your message in a channel, use “@(name)” to make sure they get a notification.
 * You can control your notification preferences by muting channels.
 * Download the [desktop app](https://slack.com/downloads/windows), and if you’d like, the phone app ([Apple](https://apps.apple.com/us/app/slack/id618783545)/[Android](https://slack.com/help/articles/207691318-Download-Slack-for-Android)) (helpful for notifications while you’re away from your computer).
+
+**Gather:** an online social space for video conferencing that’s not Zoom! We will use Gather, specifically the Gather.town replica of the John Crerar Library (home to CDAC and the CS Department), for various virtual hangouts, certain office hours, and social games (virtual scavenger hunt?!).
 
 ### Time Zones
 We’re in a global program this summer, and students are participating from multiple time zones. We’ve taken into account these different time zones as best we can when crafting program schedules and will do our best to accommodate RAs in zones with +-8 hours difference. However, everyone’s flexibility and communication will be needed to help make this as smooth as possible. If for any reason your time zone makes it infeasible for you to participate in a required activity, please let Katie know.
@@ -128,87 +132,81 @@ Screen fatigue
 * Take breaks! We’re not used to spending this much time in front of screens, even though we rely on technology to help us connect and work. Even 10 minutes away from your laptop -- reading a book (yes, an actual book), taking a walk around the block, or doing some stretches -- can be quick and effective ways to press the reset button and avoid burnout.
 
 ### Surveys
-Occasionally, we’ll send out a short survey for students to provide feedback about the programming, speaker series, ideas for social events, and more. We want this program to benefit you while you’re in it, so all feedback is encouraged and welcome, even outside of these surveys.
+We’ll send surveys for students to complete at the midway and final points of the program. This survey feedback is essential not only for us to know how the program is going, but also for internal evaluation and continuing to improve upon the program year after year.
 
 ## Summer Schedule Overview
 
 ### Google Calendar
-All meeting details and Zoom links are provided on the “CDAC Summer Lab” Google Calendar, which is shared with all students and mentors. If you have a Gmail address that you’d prefer the calendar is shared with, please let Katie know. 
+All meeting details and Zoom links are provided on the “CDAC Summer Lab 2021” Google Calendar, which is shared with all students and mentors. If you have a Gmail address that you’d prefer the calendar is shared with, please let Katie know. If you prefer not to use Google Calendars, please access it through the [web browser format](https://calendar.google.com/calendar/embed?src=c_3m50uavus3lshqiapslau9oaqc%40group.calendar.google.com&ctz=America%2FChicago).
 
-### Recurring & One-Time Schedule
-Each RA’s schedule will differ slightly, depending on the demands of their research project. We’ve limited but concentrated the events and programs that are required (most weekly, some one offs), but have an increased the number of optional plug-ins for students to ask questions, discuss in groups, and socialize.
+### Weekly Schedule 
 
-**Weekly Required Schedule**
-* **Mondays:** Cluster Stand Up Meeting | 10:00-10:30am* CT, Zoom 
-  * Small group check-in. Stand ups are an opportunity to talk through your tasks and challenges for the week, and bounce ideas and questions off your peers and lab coordinator in a low-stress environment.
-  * \* Monday stand ups will occasionally run longer for presentations/announcements.
+* **Stand Ups (Monday - Zoom, Wednesday/Friday - Slack)** 
+ * Set goals for the week, check progress on project tasks
+ * Ask lab coordinators and peers questions
+ * Stand ups are an opportunity to talk through your tasks and challenges for the week, and bounce ideas and questions off your peers and lab coordinator in a low-stress environment. Written standups are 1-2 sentences providing an update on project work. Prompts will be posted by 10am CDT, and responses should be posted by 12pm CDT.
 
-* **Wednesdays + Fridays:** Written Stand Up (asynchronous) | Slack cluster channel
-  * 1-2 sentences providing an update on project work. This can be done at any time, so long as we see it posted that day.
-* **Wednesdays:** Speaker Series | 11:00am-12:00pm CT, Zoom 30-60 min of various talks and panels from cutting-edge researchers.
-  * (occasionally) 10-15 min small group discussions in clusters in Zoom breakout rooms.
-  * To accommodate folks for whom the time difference is difficult, we’ll record each talk and share afterwards so they’re accessible to everyone.
+* **Speaker Series (Wednesdays) ([see more below](##speaker-series))**
+ * Host speakers doing cutting edge data science research, discuss their career paths and research
+ * A mix of research talks and panels
+ * To accommodate folks for whom the time difference is difficult, we’ll record each talk and share afterwards so they’re accessible to everyone
+ * Post-talk teatimes + tech demos ([Crerar Gather.town](https://gather.town/app/XSH5gsi5EphcQgMl/JCL))
 
-**Program-Long Required Schedule**
-* **(HOLD) June 23 - June 26, 9:00am-1:00pm:** Carpentries Workshop | Zoom
-  * See [“Workshops”](#workshops) below for more info.
-  * Workshop topics:
-    * June 23rd: Python
-     * June 24th: Unix
-     * June 25th: Git
-     * June 26th: Databases/SQL
-     * There will be two groups offered for each topic, one at an intermediate level and one at an advanced level. We’ll send a survey during week 1 where you can self-select the level that would be most beneficial to you.
 
-* **Friday June 26:** Icebreaker Social | Time TBD, Zoom
-  * Meet with your cluster for some icebreakers, and then meet & greet with the entire cohort!
+* **Office Hours (1 x Lab Coordinator x 2 hours/ea)**
+ * Students must attend at least one office hour within the first two weeks of the program
+ * Office hours will take place either on Zoom or in Gather (see below)
+ * Technical questions, advice about navigating student research, and more
+ * Office Hour Schedule 
+ * NB: Week 2 office hours (w/o June 21st) will differ due to the on-ramp workshop, please see the program calendar for details
+  * Zhuokai Zhao OHs: Mondays 2-4pm CDT (Zoom) (starting 6/21)
+  * Kyle MacMillan OHs: Tuesdays 1-3pm CDT (Zoom)
+  * Yujie Tao OHs: Wednesdays + Thursdays 4-5pm CDT (Zoom)
+  * Valerie Zhao OHs: Fridays 10am-12pm CDT (Zoom)
+  * Matt Baughman OHs: Fridays 3-5pm CDT (Crerar Gather.town)
 
-* **Monday of Week 5 (Cohort A) / Week 6 (Cohort B):** Midpoint Lightning Talk | 10:00-11:00am, Zoom
-  * 3-5 minute overview of research project development. No presentation materials (i.e. slide deck) needed, but optional.
+### Workshops + Presentations
 
-* **Week 5 (Cohort A) / Week 6 (Cohort B):** Midpoint Check-in | (exact dates TBC)
-  * RA and a member of the Summer Lab team meet to discuss progress, challenges, and goals, using the Learning Agreement for reference.
+* **On-Ramp Skills Workshop (Week 2: June 23rd - June 25th, 3-5pm CDT)**
+ * 3 Modules, 2 hours/ea
+  * Unix Shell + software downloads
+  * Version Control w/ Git
+  * Python for Data Science
+ * Each module will offer a beginner and an intermediate/advanced section
+ * Beginner sessions are intended for students with little to no experience with the module topic
+ * Intermediate/advanced sessions are intended for students with working knowledge of the module topic, and who are looking to deepen their understanding of the skill
+ * The goal of the on-ramp workshop is to introduce or deepen skill sets in essential data science skills and tools
+ * We will provide resources for further skills development throughout the summer, and encourage students to discuss with their mentor other skill sets or tools they will need to use for their project
 
-* **Friday of Week 10 (Cohort A) / Week 11 (Cohort B):** Final Video Symposium | 10:00am-12:00pm CT, Zoom
-  * Cohort-wide viewing and presentation of students’ final videos.
+* **Lightning Talks (Week 5 or 6)** 
+ * 3-minute presentation in clusters
+ * Practice for final videos
+ * Templates and guidelines will be provided
 
-* **Week 10 (Cohort A) / Week 11 (Cohort B):** Final Check-in | (exact dates TBC) 
-  * RA + member of the Summer Lab team (+ optional mentor(s)) meet to discuss RA’s progress over the summer and achievements on the project.
+* **Professional Development Workshop with the Office of Career Advancement**
+* **Final Videos + Symposium (Week 10 or 11)**
+ * 5-minute video recording presenting your research project
+ * Present to cohort peers and mentors in conference-style symposium
+ * We will provide details on how to prepare your final video and resources for video editing
+ * See the 2020 cohort’s final videos [here](https://www.youtube.com/playlist?list=PL0IrIAIuK93E7cbGQFuGn8NWltNYDwxMh)
 
-**Optional Weekly Programming**
-
-* **Office Hours (OH)**
- * **NB:** Week 1 + 2 office hours will be different from weeks 3+. Confirmed OH times (for weeks 3+) will be posted on the Google Calendar & in Slack.
-   * Julia Hanson | Tuesdays, time TBC, Zoom
-   * Tyler Skluzacek | Wednesdays, time TBC, Zoom
-   * Kyle Chard | Thursdays, 10:00am-11:00am CT, Zoom
-   * Jinjin Zhao | Fridays, time TBC, Zoom
-
-* **Wednesdays:** Post-talk teatime discussion | 12:00-12:30pm CT, Zoom
-  * Open Zoom room to discuss that week’s speaker series.
-
-* **Social Events**
-  * Announced during the program, integrating student feedback and interest. Example event: virtual trivia!
- 
-### Workshops
-* [Carpentries Workshop](https://carpentries.org/about/) (week 2) | Details TBC 6/12
- * The goal of this “on-ramp” workshop is to help make sure everyone is on the same page re: essential software (and possibly some data) carpentry tools before diving into research projects. 
- * Lessons include: Python programming + Unix shell + Version control with Git + Databases/SQL (+ more)
- * We’ll run two concurrent workshops with differently tailored lesson plans. During week 1, you will be able to self-select which workshop best addresses your skill set.
  
 ### Clusters
-* Think of this as our version of “staying apart, together.” Especially since we’re remote, and we’re a big group, we wanted to find a way to facilitate small group collaboration, discussion, and connection -- hence, clusters! Each cluster is a group of 8-10 students who are all working on projects related to an umbrella theme. **NB:** each of your projects is interdisciplinary by nature, so if you’re wondering why you’re in one cluster and not another - or, more importantly, if your original cluster assignment isn’t working out - let us know and we can reshuffle the deck.
+* Think of this as our version of “staying apart, together.” Especially since we’re remote, and the entire cohort is a large group, we use clusters to facilitate small group collaboration, discussion, and connection. Each cluster is a group of 10-13 students who are all working on projects related to the cluster’s theme. You’ll meet in your cluster weekly for standups, and each cluster has a designated lab coordinator that will facilitate those standups and other cluster activities. You can still attend office hours of lab coordinators who are not your cluster’s lab coordinator.
 
-Here are the four cluster groups:
-* **Applied Machine Learning + AI (Applied ML/AI):** Advancing the new frontier of artificial intelligence & machine learning methods for real-world impact.
- * Lab Coordinator: Jinjin Zhao
-* **Computational Social Sciences (CSS):** Applying computational analysis to various aspects of society to derive otherwise unforeseen insights.
- * Lab Coordinator: Tyler Skluzacek
-* **Human-Computer Interaction (HCI):** Meeting at the intersection of humans and technology.
- * Lab Coordinator: Julia Hanson
-* **Systems (Sys):** Developing the highly performant, secure, and heterogeneous computing systems of the future.
- * Lab Coordinator: Tyler Skluzacek (+ Kyle Chard as co-coordinator)
- 
- In each cluster, you’ll also be part of a peer tripod, or a group of you and two other RAs who are working on similar projects, and are encouraged to collaborate on project questions and discussions. Each cluster will also have a speaker series talk devoted to that subject, and students will have the opportunity to introduce speakers talking on that topic.
+**NB**: Many projects could be categorized into multiple clusters, however we assigned the groupings based on the peer group and theme that we consider most useful and relevant for your project. These are not intended to pigeonhole your project’s scope, since all projects in the program are inherently interdisciplinary.
+
+Here are the cluster groups:
+* **Applied Machine Learning + AI (Applied ML/AI)**
+  * Lab Coordinator: Matt Baughman
+* **Natural and Computational Systems**
+ * Lab Coordinator: Valerie Zhao
+* **Human-Computer Interaction (HCI)** 
+ * Lab Coordinator: Yujie Tao
+* **Networks + Neighborhoods** 
+ * Lab Coordinator: Kyle MacMillan
+* **Social Impact Track**
+ * Lab Coordinator: Zhuokai Zhao
 
 ### Presentations
 One of the most rewarding yet difficult aspects of the research lifecycle is communicating your research. Crafting a narrative about your project -- from its motivating questions to its methods and findings -- requires you to contextualize your project within larger questions in computational and data science. It’s also good practice to learn how to talk about intricately technical topics to audiences who aren’t content experts within your field.
@@ -219,28 +217,35 @@ On your final day in the program, we’ll have a “Symposium” where we watch 
 You’ll have a chance to do a practice run in a Monday morning stand up meeting (week 5 + 6). We encourage you to leverage and work with your peer tripod and cluster group to get feedback and inspiration for your videos!
 
 ### Speaker Series
-Each Wednesday, we’ll host a talk or panel featuring researchers, professors, students, and industry representatives on the front lines of cutting-edge data science and artificial intelligence research. Each talk will be followed by Q&A, and some with small-group discussions. Students will have multiple opportunities to submit questions during each talk, introduce speakers, and even moderate panels. As mentioned above, all talks will be recorded and shared after the fact, so that anyone who can’t attend (because of time zone differences or conflicts) can still hear the talk.
+Each Wednesday, we’ll host a talk or panel featuring researchers, professors, students, and industry representatives on the front lines of cutting-edge data science and artificial intelligence research. Each talk will be followed by Q&A, and a post-talk teatime or tech demo. Students will have the opportunity to ask questions of and introduce speakers. As mentioned above, all talks will be recorded and shared after the fact, so that anyone who can’t attend (because of time zone differences or conflicts) can still watch the talk.
 
-**NB:** We will hold a talk on June 17th during week 1 of the program, before Cohort B has begun (on June 22nd). Cohort B RAs are still of course welcome and encouraged to attend this talk, even if they haven’t yet started.
+**NB**: We will hold a talk on June 16th during week 1 of the program, before Cohort B has begun (on June 22nd). Cohort B RAs are still of course welcome and encouraged to attend this talk, even if they haven’t yet started.
 
 Talk topics for this summer include:
-* **Lab Coordinator Intros:** How to make the most of your summer research program
-* **CDAC + CS Intros:** Hear firsthand about the expanding efforts around CS and data science at UChicago
-* **COVID-19 + Data:** What role can data science play in meeting the unprecedented challenges of the COVID-19 pandemic?
-* **Faculty Panel:** Hear professors talk about their unique path to academia, and ask them questions outside of a classroom context.
-* **Human-Computer Interaction:** What do the boundary-pushing frontiers of HCI research look like? In security, robotics, and wearables?
-* **Industry Panel:** What does data science look like in industry and government vs. academia? How do you pursue a career in data science industries? Followed by a workshop with UChicago Career Development.
-* **PhD Panel:** Hear from CS PhD students and [CDAC Graduate Fellows](https://cdac.uchicago.edu/fellows-and-scholars/) about their path into academia and recommendations for pursuing higher education in various interdisciplinary computational fields.
-* **Image Analysis + AI:** What are the unique challenges of image analysis across domains/applications such as public policy and archaeology?
-* **AI + Science:** How is AI as an emerging field being defined by current cutting-edge research? What are the unique challenges to this field in its myriad real-world applications?
-* **National Labs:** How are National Labs such as Argonne National Lab and Fermilab pushing the boundaries of computational power and scientific discovery?
-* **Applied Data Science:** Data science methodologies advance through interdisciplinary collaboration across domains and approaches. What does data science research look like across fields such as spatial data, medicine, and econ/business?
+* **Civic + Urban Data Science**: Data science that incorporates data from urban environments, and has an impact on the ways that humans interact with and engage in society
+* **Data Science @ UChicago**: Introduction to the expanding efforts around CS and data science at UChicago
+* **Human-Computer/-Robot Interaction**: What do the boundary-pushing frontiers of HCI research look like? In security, robotics, and wearables?
+* Summer Lab Alumni Panel: Hear from program alumni on their experiences in the program, how they continued pursuing research after the program, and tips and tricks for making the most of a remote program
+* **Broadband Equity and Access Initiative**: Learn about CDAC's Broadband Equity and Access Initiative, as part of the data.org grant "Mapping and Mitigating the Urban Digital Divide”, and see how an interdisciplinary collaboration is pushing the boundaries of innovative data science research
+* **Reproducibility + Replicability in Data Science**: What does it entail to produce research that is reproducible? Why is reproducibility important?
+* **Natural Language Processing**: What are the unique challenges of NLP? What insights can we uniquely uncover by applying NLP techniques?
+* **Faculty Panel**: Hear from UChicago faculty engaging in data science research from a range of disciplines about how they came to computing/data science research, and advice for students looking to forge careers in academia and industry
+* **Computational Science @ the National Labs**: How are National Labs such as Argonne National Lab and Fermilab pushing the boundaries of computational power and scientific discovery?
+* **Applied Data Science**: Data science methodologies advance through interdisciplinary collaboration across domains and approaches. What does data science research look like across fields such as spatial data, medicine, and econ/business?
+* **Applications of Statistical Machine Learning**: How can fields such as medicine, physics, and finance, gain new insights into their individual fields through applications of statistical machine learning? What can applications of statistical machine learning teach us about both the fields they’re applied into as well as data science as a whole?
+
 
 ### Stipends
 In recognition and support of your participation in the program, you have been awarded a stipend. All stipends have been processed, and should be arriving either as a check or a direct deposit/wire transfer. Once you have received your stipend, please email Katie to confirm. If you have any questions regarding your stipend situation, please notify Katie as well.
 
 ### Social Events
-While a remote program makes it trickier to put the “play” in “work hard, play hard”, it won’t stop us from offering some online social activities. The cohort experience is built both through project collaboration and work and through connections and fun with games. Stay tuned for more info on social event details throughout the program -- we’ll roll them out as the weeks go on, hopefully with your input.
+If the past year has taught us anything, it’s that virtual socializing doesn’t replace in-person but it can still be a blast! The cohort experience is built both through project collaboration and work and through connections and fun with games. Let us know what games or activities you’d like to see more of throughout the program! Current social events we’re planning include:
+* Trivia Tournament (week 3)
+* [Among Us](https://innersloth.com/gameAmongUs.php) Competition
+* Friday Gather.town hangouts
+* Cluster Competitions
+* End-of-summer BBQ (in person)
+
 
 
 
