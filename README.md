@@ -20,6 +20,7 @@ If you are applying to the program or have been accepted as a RA, check out the 
 * [Research Assistant (RA) expectations](#research-assistant-ra-expectations)
 * [Remote Resources + Working from Home](#remote-resources--working-from-home)
 * [Summer Schedule Overview](#summer-schedule-overview)
+* [Weekly Schedule](#weekly-schedule)
 * [Workshops & Presentations](#presentations)
 * [Clusters](#clusters)
 * [Speaker series](#speaker-series)
@@ -81,7 +82,7 @@ Each [cluster](#cluster) has a designated lab coordinator, but each lab coordina
 
 **Attendance:** All RAs are expected to complete the full ten weeks of the program. If for any reason you need to request time off, please discuss the situation with your mentor(s), Kyle, and Katie. Mentors have final say over adjusted schedules, and any scheduling agreements should be addressed in the Learning Agreement document. 
 
-There are two weekly, required meetings for all RAs: a standup meeting on Mondays at 11:00am CDT, and a speaker series talk on Wednesdays at 12:00pm CT. All other meetings are optional, but encouraged, unless otherwise noted. If you are unable to attend the speaker series due to a time zone conflict, please let Katie know, and plan on watching the session recordings.
+There are two weekly, required [meetings](#weekly-schedule) for all RAs: a standup meeting on Mondays at 11:00am CDT, and a speaker series talk on Wednesdays at 12:00pm CT. All other meetings are optional, but encouraged, unless otherwise noted. If you are unable to attend the speaker series due to a time zone conflict, please let Katie know, and plan on watching the session recordings.
 
 **Schedule:** Each RA is expected to contribute a full-time schedule (37.5-40 hrs/wk) to their research project. RAs are not required to log or document hours worked (unless using Workday). Your schedule will contain a mix of some Summer Lab programmatic activities, meetings with your mentor(s) and lab group, and any other related events.
 
@@ -108,7 +109,7 @@ There are two weekly, required meetings for all RAs: a standup meeting on Monday
 * Remove your video in larger calls (i.e. Wednesday speaker series) if your connection is iffy, or if you would generally prefer to have it off.
 * Check privacy and security [settings](https://zoom.us/security) for each meeting, and always require a password.
 
-**Slack:** the central platform for quick communication, addressing questions and cohort-wide announcements/updates. You have all been invited to the [CDAC Summer Lab slack workspace](http://cdac-summerlab.slack.com). When you’ve accepted and joined, please set up your profile with the following: name/preferred name; cluster; time zone; pronouns; (optional) photo/graphic. Feel free to write an intro message in the /#intros channel, too.
+**Slack:** the central platform for quick communication, addressing questions and cohort-wide announcements/updates. You have all been invited to the [CDAC Summer Lab slack workspace](http://cdac-summerlab.slack.com). When you’ve accepted and joined, please set up your profile with the following: name/preferred name; cluster; time zone; pronouns; (optional) photo/graphic. Feel free to write an intro message in the #intros channel, too.
 
 This workspace is here for you to leverage, so make this workspace your own and use it to your benefit. We encourage you to share insights, questions, and articles in your cluster channel, and use the other public channels to share and interact with your cohort. Some Slack best practices:
 
@@ -116,7 +117,8 @@ This workspace is here for you to leverage, so make this workspace your own and 
 * You can control your notification preferences by muting channels.
 * Download the [desktop app](https://slack.com/downloads/windows), and if you’d like, the phone app ([Apple](https://apps.apple.com/us/app/slack/id618783545)/[Android](https://slack.com/help/articles/207691318-Download-Slack-for-Android)) (helpful for notifications while you’re away from your computer).
 
-**Gather:** an online social space for video conferencing that’s not Zoom! We will use Gather, specifically the Gather.town replica of the John Crerar Library (home to CDAC and the CS Department), for various virtual hangouts, certain office hours, and social games (virtual scavenger hunt?!).
+**Gather:** an online social space for video conferencing that’s not Zoom! We will use Gather, specifically the Gather.town replica of the John Crerar Library (home to CDAC and the CS Department), for various virtual hangouts, certain office hours, and social games (virtual scavenger hunt?!). You can access the Crerar Gather.town [here](https://gather.town/app/XSH5gsi5EphcQgMl/JCL). Please note that this site is proprietary to the Computer Science Department, and used by others outside of the Summer Lab program. As such, please only use it either during scheduled activities or with Katie’s permission.
+
 
 ### Time Zones
 We’re in a global program this summer, and students are participating from multiple time zones. We’ve taken into account these different time zones as best we can when crafting program schedules and will do our best to accommodate RAs in zones with +-8 hours difference. However, everyone’s flexibility and communication will be needed to help make this as smooth as possible. If for any reason your time zone makes it infeasible for you to participate in a required activity, please let Katie know.
