@@ -37,7 +37,7 @@ If you are applying to the program or have been accepted as a RA, check out the 
 * [Valerie Zhao](mailto:vzhao@uchicago.edu), Lab Coordinator (Natural and Computational Systems Cluster)
   * Office Hours: Fridays, 10am-12pm CDT
 * [Zhuokai Zhao](mailto:zhuokai@uchicago.edu), Lab Coordinator (Social Impact Track Cluster)
-  * Office Hours: Mondays 2-4pm CDT (starting 6/21)
+  * Office Hours: Mondays, 2:30-4:30pm CDT
 * [Matt Baughman](mailto:mbaughman@uchicago.edu), Lab Coordinator (Applied ML/AI Cluster)
   * Office Hours: Fridays 3-5pm CDT
 * [Daniel Grzenda](mailto:grzenda@uchicago.edu), CDAC Staff Data Scientist (Social Impact Track Lead)
