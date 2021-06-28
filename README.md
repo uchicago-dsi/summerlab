@@ -33,7 +33,7 @@ If you are applying to the program or have been accepted as a RA, check out the 
 * [Yujie Tao](mailto:yujiet@uchicago.edu), Lab Coordinator (HCI Cluster)
   * Office Hours: Wednesdays + Thursdays 4-5pm CDT
 * [Kyle MacMillan](mailto:macmillan@uchicago.edu), Lab Coordinator (Networks + Neighborhoods Cluster)
-  * Office Hours: Tuesdays 1-3pm CDT
+  * Office Hours: Mondays 12:30-2:30pm CDT
 * [Valerie Zhao](mailto:vzhao@uchicago.edu), Lab Coordinator (Natural and Computational Systems Cluster)
   * Office Hours: Fridays, 10am-12pm CDT
 * [Zhuokai Zhao](mailto:zhuokai@uchicago.edu), Lab Coordinator (Social Impact Track Cluster)
